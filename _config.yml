@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Berna Eraslan"
-  avatar           : "foto.png"
+  avatar           : "images/foto.jpg"
   bio              : "Research and Development Engineer"
   location         : "Ankara"
   employer         :
@@ -94,15 +94,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : # "https://www.facebook.com/berna.eraslan"
+  facebook         : "https://www.facebook.com/berna.eraslan"
   foursquare       :
   github           : "berna-eraslan"
   google_plus      :
   keybase          :
-  instagram        : #"https://www.instagram.com/berna.eraslan/?hl=en"
+  instagram        : "https://www.instagram.com/berna.eraslan/?hl=en"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"https://www.linkedin.com/in/berna-eraslan-6b901b9b/"
+  linkedin         : "https://www.linkedin.com/in/berna-eraslan-6b901b9b/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
