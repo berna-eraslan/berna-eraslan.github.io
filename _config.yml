@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Berna Eraslan"
-  avatar           : "images/foto.jpg"
+  avatar           : "images/foto.png"
   bio              : "Research and Development Engineer"
   location         : "Ankara"
-  employer         : "https://eee.metu.edu.tr/"
+  employer         : #"https://eee.metu.edu.tr/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
