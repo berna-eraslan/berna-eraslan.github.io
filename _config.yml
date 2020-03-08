@@ -14,7 +14,7 @@ description              : &description "Researcher and Adventurer"
 url                      : https://berna-eraslan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "berna-eraslan/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  500x300.png
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Berna Eraslan"
-  avatar           : "images/foto.jpg"
+  avatar           : "foto.jpg"
   bio              : "Research and Development Engineer"
   location         : "Ankara"
   employer         :
@@ -99,7 +99,7 @@ author:
   github           : "berna-eraslan"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/berna.eraslan/?hl=en"
+  instagram        : "https://www.instagram.com/berna.eraslan"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/berna-eraslan-6b901b9b/"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
