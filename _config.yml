@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Berna Eraslan"
-  avatar           : "images/foto.png"
+  avatar           :  "foto.png"
   bio              : "Research and Development Engineer"
   location         : "Ankara"
   employer         : #"https://eee.metu.edu.tr/"
