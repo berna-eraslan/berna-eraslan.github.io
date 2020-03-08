@@ -1,6 +1,6 @@
 ---
-title: "Travel item number 1"
-excerpt: "Short description of travel item number 1<br/><img src='/images/500x300.png'>"
+title: "Sprachlehrinstitut (SLI) der Albert-Ludwigs-Universität Freiburg"
+excerpt: "German Language Course in Freiburg in August 2013<br/><img src='/images/freiburg.png'>"
 collection: travel
 ---
 
