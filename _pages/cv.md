@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical and Electronics Engineering, Middle East Technical University, 2016
+* M.S. in Electrical and Electronics Engineering, Middle East Technical University, 2019
+* Ph.D in Electrical and Electronics Engineering, Middle East Technical University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Visiting Researcher in Chalmers University of Technology, March 2020-June 2020
+* Research and Development Engineer in Türk Telekom, October 2019-Present
+* Radar Systems Engineer in ASELSAN, August 2017 – October 2019
+* Software Engineer in ASELSAN, July 2016 – August 2017
+* Assistant Software Engineer in ASELSAN, January 2016 – July 2016
+* Programming Engineer Internship in ASELSAN, August 2015 – September 2015
+* Programming Engineer Internship in METEKSAN DEFENSE, June 2014 – July 2014
+* Student Researcher in CEMMETU, May 2014 – November 2015
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficiency
+  * IBM Rational Rhapsody, Python, C C++, Java, Xtend, C#, Verilog, VHDL MathWorks MATLAB, Microsoft Office and Adobe products
+* Moderate
+  * Siemens NX, AutoCAD, KeyCreator, PartSim, LTspice
+
+Languages
+======
+* Turkish (Native)
+* English	(Advanced, IELTS 2018: 7.5)
+* German	(Intermediate, Goethe A 2.2)
+* French (Beginner)
+
 
 Publications
 ======
@@ -54,6 +59,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
