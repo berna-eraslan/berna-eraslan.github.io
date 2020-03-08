@@ -13,7 +13,7 @@ name                     : &name "Berna Eraslan"
 description              : &description "Researcher and Adventurer"
 url                      : https://berna-eraslan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "berna-eraslan/academicpages.github.io"
+repository               : "berna-eraslan/berna-eraslan.github.io"
 teaser                   :  500x300.png
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,7 @@ author:
   avatar           : "images/foto.jpg"
   bio              : "Research and Development Engineer"
   location         : "Ankara"
-  employer         : "Middle East Technical University"
+  employer         : "https://eee.metu.edu.tr/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
