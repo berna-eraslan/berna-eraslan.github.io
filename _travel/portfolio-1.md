@@ -1,6 +1,6 @@
 ---
 title: "Sprachlehrinstitut (SLI) der Albert-Ludwigs-Universität Freiburg"
-excerpt: "German Language Course in Freiburg in August 2013<br/><img src='/images/freiburg.png'  width='500'>"
+excerpt: "German Language Course in Freiburg in August 2013<br/><img src='/images/freiburg.png'  width='2500'>"
 collection: travel
 ---
 
