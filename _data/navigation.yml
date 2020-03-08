@@ -7,7 +7,7 @@ main:
     url: /talks/    
 
   - title: "Travel"
-    url: /travel/
+    url: /_travel/
         
   - title: "Yoga"
     url: /yoga/
