@@ -11,7 +11,7 @@ title                    : "Berna Eraslan"
 title_separator          : "-"
 name                     : &name "Berna Eraslan"
 description              : &description "Researcher and Adventurer"
-url                      : https://berna-eraslan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://berna-eraslan.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "berna-eraslan/berna-eraslan.github.io"
 teaser                   :  500x300.png
