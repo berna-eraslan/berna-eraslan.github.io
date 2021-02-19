@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Electrical and Electronics Engineering, Middle East Technical University, 2016
 * M.S. in Electrical and Electronics Engineering, Middle East Technical University, 2019
-* Ph.D in Electrical and Electronics Engineering, Middle East Technical University, 2024 (expected)
+* Ph.D in Electrical and Electronics Engineering, Technical University of Eindhoven, 2025 
 
 Work experience
 ======
@@ -38,7 +38,7 @@ Languages
 * Turkish (Native)
 * English	(Advanced, IELTS 2018: 7.5)
 * German	(Intermediate, Goethe A 2.2)
-* French (Beginner)
+* Dutch (Beginner)
 
 
 Publications
@@ -46,6 +46,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
 Talks
 ======
