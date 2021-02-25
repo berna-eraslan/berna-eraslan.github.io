@@ -5,4 +5,4 @@ collection: travel
 ---
 
 The language course, I attended between ...
-
+<br/><img src='/images/freiburg.png'  width='200'>
